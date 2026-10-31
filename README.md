@@ -114,6 +114,6 @@ The current implementation does not constitute a fully specified index-tracking 
 
 ## Author
 
-Developed as an independent quantitative finance project.
+Developed as a college seminar in the subject Financial Econometrics.
 
 [GitHub Repository](https://github.com/matheusmafraoandrade/Principal-Portfolios-Analysis-PCA)
